@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice">Hello, welcome to the AWOS station. Please wait while I process your request.</Say>
+</Response>
